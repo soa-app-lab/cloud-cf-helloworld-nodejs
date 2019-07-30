@@ -1,7 +1,7 @@
 general:
 steps:
   mtaBuild:
-    buildTarget: 'CF'
+    buildTarget: 'NEO'
   cloudFoundryDeploy:
     deployTool: 'mtaDeployPlugin'
     deployType: 'standard'
